@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "896220910284",
+    "firebase_url": "https://uni7example.firebaseio.com",
+    "project_id": "uni7example",
+    "storage_bucket": "uni7example.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:896220910284:android:f9efbb1c8fcd21da",
+        "android_client_info": {
+          "package_name": "com.example.mariliaportela.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "896220910284-4e5lamdedhervb30g11jn2e6lr37fko4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwEl5_RW8hY5Qag6CO8Eb-KuaMEOiXj74"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
